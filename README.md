@@ -5,7 +5,7 @@
 3 - Autonomous_driving_application_Car_Detection<br/>
 4 - Face_Recognition<br/>
 
-## FILES (ipynb -> HTML) CNN using TensorFlow <br/>
+## FILES (ipynb -> HTML) (./CNN using TensorFlow/) <br/>
 
 ## TOPICS<br/>
 
